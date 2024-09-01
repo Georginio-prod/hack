@@ -156,7 +156,7 @@ const Content = () => {
                                 <p>Last Bid</p>
                                 <p className="font-semibold">1.57 ETH</p>
                             </div>
-                            <button className="w-full py-2 bg-gradient-to-tr from-[#0042FF] to-[#EB001B] text-white rounded-lg">Place a bid</button>
+                            <button className="w-full py-2 bg-gradient-to-tr from-[#0042FF] via-green-900 to-[#EB001B] text-white rounded-lg">Place a bid</button>
                         </div>
                         {/* NFT Card 3 */}
                         <div className="flex flex-col w-[241px] h-[383px] border border-gray-300 px-6 py-5 rounded-lg">
